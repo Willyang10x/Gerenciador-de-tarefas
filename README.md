@@ -44,10 +44,10 @@ Para rodar este projeto na sua máquina, siga os passos abaixo:
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/SEU-NOME-DE-USUARIO/NOME-DO-SEU-REPOSITORIO.git](https://github.com/SEU-NOME-DE-USUARIO/NOME-DO-SEU-REPOSITORIO.git)
+git clone [https://github.com/Willyang10x/Gerenciador-de-tarefas.git](https://github.com/Willyang10x/Gerenciador-de-tarefas.git)
 
 # 2. Navegue até o diretório do projeto
-cd NOME-DO-SEU-REPOSITORIO
+cd Gerenciador-de-tarefas
 
 # 3. Instale as dependências
 npm install
