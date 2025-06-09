@@ -1,21 +1,24 @@
-# ✅ Gerenciador de tarefas
+# ✅ Gerenciador de Tarefas com Next.js
 
 ![tasksIcon](https://github.com/user-attachments/assets/ac9c11ac-ebbe-423b-a315-1d203d0ffdfb)
 
+## 💻 Projeto
 
-> Projeto de uma Lista de Tarefas (To-Do List) minimalista, desenvolvido como parte dos meus estudos em React. O foco foi praticar os conceitos fundamentais da biblioteca, como componentes, estados e eventos.
+Um Gerenciador de Tarefas (To-Do List) minimalista desenvolvido para praticar e solidificar os conceitos fundamentais do ecossistema React, utilizando Next.js para estruturação e componentização.
+
+🔗 **Veja o projeto online:** **[Tasks in List](https://tasks-in-list.netlify.app/)**
 
 ---
 
 ### 🚀 Tecnologias Utilizadas
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
--   **[React](https://react.dev/)**
--   **[Vite](https://vitejs.dev/)**
--   **JavaScript**
--   **CSS3**
--   **HTML5**
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
@@ -28,13 +31,14 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ### 💡 O que aprendi
 
-Com a construção deste projeto, pude solidificar meus conhecimentos nos seguintes conceitos do React:
+Com a construção deste projeto, pude solidificar meus conhecimentos nos seguintes conceitos:
 
--   **Componentização:** Estruturação da aplicação em componentes.
--   **Hooks do React:** Utilização intensiva do `useState` para gerenciamento de estado.
+-   **Estrutura de projetos com Next.js:** Entendimento da organização de pastas e arquivos.
+-   **Componentização:** Criação de componentes React reutilizáveis e organizados.
+-   **Hooks do React:** Utilização intensiva do `useState` para gerenciamento de estado local.
 -   **Eventos:** Manipulação de eventos de clique (`onClick`) e de formulário (`onSubmit`).
--   **Renderização de Listas:** Uso do método `.map()` para renderizar dinamicamente os componentes da lista.
--   **Imutabilidade do Estado:** Prática de atualizar o estado criando novas listas (com `filter` e `spread operator`), em vez de modificar o estado diretamente.
+-   **Renderização de Listas:** Uso do método `.map()` para renderizar dinamicamente os componentes.
+-   **Imutabilidade do Estado:** Prática de atualizar o estado de forma segura e previsível.
 
 ---
 
@@ -52,15 +56,13 @@ cd Gerenciador-de-tarefas
 # 3. Instale as dependências
 npm install
 
-# 4. Rode a aplicação
+# 4. Rode a aplicação em modo de desenvolvimento
 npm run dev
 ```
-
----
 ## 📝 License
+
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes
 
-
 <p align="center">
-  Feito por <strong>[Willyan Gabriel] :sunglasses:</strong>
+  Feito por <strong>[Willyan Gabriel] :sunglasses:</strong>
 </p>
